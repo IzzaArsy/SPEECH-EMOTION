@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np    
 import tensorflow as tf
 import os,urllib
-import librosa # to extract speech features
+import librosa as lb
 
 
 
